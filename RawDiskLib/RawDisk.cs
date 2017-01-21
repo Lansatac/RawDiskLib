@@ -6,6 +6,8 @@ using DeviceIOControlLib;
 using Microsoft.Win32.SafeHandles;
 using RawDiskLib.Helpers;
 using FileAttributes = System.IO.FileAttributes;
+using DeviceIOControlLib.Wrapper;
+using DeviceIOControlLib.Objects.Disk;
 
 namespace RawDiskLib
 {
